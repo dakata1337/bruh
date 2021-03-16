@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invert Binary Tree", "Inver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{6B4BC7C4-49EC-4EE9-9628-E71DD4687573}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargesAndMostUsedNumberInArray", "LargesAndMostUsedNumberInArray\LargesAndMostUsedNumberInArray.csproj", "{56983960-B95F-49C3-9EB2-1C586AD40C63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{6B4BC7C4-49EC-4EE9-9628-E71DD4687573}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B4BC7C4-49EC-4EE9-9628-E71DD4687573}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B4BC7C4-49EC-4EE9-9628-E71DD4687573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56983960-B95F-49C3-9EB2-1C586AD40C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56983960-B95F-49C3-9EB2-1C586AD40C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56983960-B95F-49C3-9EB2-1C586AD40C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56983960-B95F-49C3-9EB2-1C586AD40C63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
